@@ -1,0 +1,28 @@
+// Session
+export const SESSION_START = "SESSION_START";
+export const SESSION_SUCCESS = "SESSION_SUCCESS";
+export const SESSION_FAIL = "SESSION_FAIL";
+export const SESSION_LOGOUT = "SESSION_LOGOUT";
+
+// Product
+export const PRODUCT_START = "PRODUCT_START";
+export const PRODUCT_SUCCESS = "PRODUCT_SUCCESS";
+export const PRODUCT_FAIL = "PRODUCT_FAIL";
+
+// Token authentication constants
+export const AUTH_START = "AUTH_START";
+export const AUTH_SUCCESS = "AUTH_SUCCESS";
+export const AUTH_SIGNUP_SUCCESS = "AUTH_SIGNUP_SUCCESS";
+export const AUTH_FAIL = "AUTH_FAIL";
+export const AUTH_LOGOUT = "AUTH_LOGOUT";
+
+// MESSAGES
+export const CREATE_MESSAGES_START = "CREATE_MESSAGES_START";
+export const CREATE_MESSAGES_SUCCESS = "CREATE_MESSAGES_SUCCESS";
+
+// ERROR
+export const CREATE_ERROR_START = "CREATE_ERROR_START";
+export const CREATE_ERROR_SUCCESS = "CREATE_ERROR_SUCCESS";
+
+// NETWORK
+export const NETWORK = "http://127.0.0.1:5000";
